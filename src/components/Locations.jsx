@@ -71,7 +71,7 @@ function Locations() {
             {/* Description */}
             <div>
               <h1 className='text-[14px] font-bold pb-2 pt-8'>Description</h1>
-              <p className='text-[#71717A] text-[16px]'>Lorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werho</p>
+              <p className='text-[#71717A] text-[16px]'>Lorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general sac mascho werhoLorem ipsum dolar sit general </p>
             </div>
             <br />
             <hr />
