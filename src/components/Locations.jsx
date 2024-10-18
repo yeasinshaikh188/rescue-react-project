@@ -62,7 +62,7 @@ function Locations() {
                 </div>
                 <div>
                   <p className='text-[#6B7280] text-[14px] pb-1'>Approx. Cost:</p>
-                  <h1 className='text-[20px] font-bold'>$60,607,456.00</h1>
+                  <h1 className='text-[20px] font-bold'>$60,607,456.0</h1>
                 </div>
               </div>
             </div>
